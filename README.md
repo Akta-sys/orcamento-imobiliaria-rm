@@ -2,4 +2,5 @@
 
 ## Fluxograma da Aplicação
 
-![Fluxograma](Fluxograma_–_Sistema_de_Geração_de_Orçamento_Imobiliário_R.M.png)
+![Fluxograma](Fluxograma.png)
+
