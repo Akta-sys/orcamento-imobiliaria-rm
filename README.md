@@ -2,4 +2,5 @@
 
 ## Fluxograma da Aplicação
 
-![Fluxograma](Fluxograma – Sistema de Geração de Orçamento Imobiliário R.M.drawio)
+![Fluxograma](Fluxograma – Sistema de Geração de Orçamento Imobiliário R.M.drawio.pdf)
+
